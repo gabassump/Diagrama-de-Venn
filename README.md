@@ -1,2 +1,2 @@
-# Diagrama-de-Venn
-Cria um Diagrama de Venn (pseudovenn) a partir de 6 conjuntos e produz uma tabela com os resultados das interseções para todos os conjuntos.
+# Venn-Diagram
+Creates a Venn Diagram from 6 sets and produces a table with the results of the intersections for all sets.
